@@ -43,7 +43,7 @@ Figma Design -[Tastebite-Recipe-App](https://www.figma.com/file/PU4c9V6nSDltNYZl
 
  ### Installation Process
  ****
-* Clone to the repo : git clone https://github.com/DennohKim/Tastebite-Recipe-App.git
+* Clone to the repo : git clone https://github.com/JohnKamaujk/Tastebite-App.git
 * Unzip the downloaded files in a folder of choice.
 * Open the index file from the zipped file with any browser.
  ****
